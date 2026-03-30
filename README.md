@@ -1,0 +1,2 @@
+# netflix-backend
+This project is the frontend application for the Netflix-style platform. It connects to the backend API and provides the user interface for interacting with the system.  The frontend should be deployed on a separate Ubuntu server from the backend.
