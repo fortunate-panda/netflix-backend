@@ -1,4 +1,5 @@
 package dev.farhan.movieist.movies;
+import org.springframework.web.bind.annotation.CrossOrigin;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
